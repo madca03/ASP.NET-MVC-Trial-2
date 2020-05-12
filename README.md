@@ -1,5 +1,5 @@
 # ASP.NET-MVC-Trial-2
-MVC CRUD app with EF6 DB-First Scaffold
+MVC CRUD app with Entity Framework 6 Database First Scaffold
 
 Followed the tutorial in this [link](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/)
 
