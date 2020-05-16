@@ -9,7 +9,7 @@ Followed the tutorial in this [link](https://docs.microsoft.com/en-us/aspnet/mvc
 1. In [this](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/setting-up-database) part of the tutorial, instead of creating an SQL Server Database Project, we'll use the Microsoft SQL Server Express for our database. First login to your SQL Server then create a database. Create the tables **student**, **course**, and **enrollment** using the T-SQL scripts below. After creating the tables, generate the seed data. The T-SQL script for the seed data is also shown below.
 
 - image showing the creation of table in MS SQL Server Express
-  ~[alt text][create-table-mssql "creating table in mssql"]
+  ![creating table in MSSQL][create-table-mssql]
 
 - T-SQL script for creating **student** table
 
